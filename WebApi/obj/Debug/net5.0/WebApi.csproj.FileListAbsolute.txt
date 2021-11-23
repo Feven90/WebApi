@@ -1,0 +1,8 @@
+C:\Personal Projects\WebApi\WebApi\obj\Debug\net5.0\WebApi.csproj.AssemblyReference.cache
+C:\Personal Projects\WebApi\WebApi\obj\Debug\net5.0\WebApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Personal Projects\WebApi\WebApi\obj\Debug\net5.0\WebApi.AssemblyInfoInputs.cache
+C:\Personal Projects\WebApi\WebApi\obj\Debug\net5.0\WebApi.AssemblyInfo.cs
+C:\Personal Projects\WebApi\WebApi\obj\Debug\net5.0\WebApi.csproj.CoreCompileInputs.cache
+C:\Personal Projects\WebApi\WebApi\obj\Debug\net5.0\WebApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Personal Projects\WebApi\WebApi\obj\Debug\net5.0\WebApi.RazorAssemblyInfo.cache
+C:\Personal Projects\WebApi\WebApi\obj\Debug\net5.0\WebApi.RazorAssemblyInfo.cs
